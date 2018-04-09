@@ -1,2 +1,1 @@
-# HejBrew
-Brewery built on Arduino
+# HejBrew - HERMS automatizovaný Arduinem
